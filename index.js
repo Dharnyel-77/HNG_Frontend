@@ -13,4 +13,4 @@ const currentDay = document.querySelector('.day');
 
 const currentDayOfWeek = daysOfWeek[dayOfWeek];
 currentDay.innerHTML = currentDayOfWeek;
-console.log(currentDayOfWeek);
+
