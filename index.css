@@ -1,8 +1,18 @@
 * {
-    background-color: beige;
+    background-color: salmon;
 }
 
 img {
     width: 200px;
     height: 200px;
+}
+
+.container { 
+    width: 300px;
+    height: 700px;
+    margin-top: 50px;
+    margin-left: 50px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
 }
